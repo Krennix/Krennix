@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=hello!&animation=fadeIn&type=waving&color=6A5ACD&height=150&fontColor=ffffff"/>
 </p>
+<p
 ```yaml
 * YOUR TEXT GOES HERE *
 ```
+  </p>
+<p
