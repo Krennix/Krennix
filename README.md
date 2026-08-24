@@ -2,5 +2,5 @@
   <img src="https://capsule-render.vercel.app/api?text=hello!&animation=fadeIn&type=waving&color=6A5ACD&height=150&fontColor=ffffff"/>
 </p>
 ```yaml
-dsfs
+* YOUR TEXT GOES HERE *
 ```
