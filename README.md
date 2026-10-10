@@ -5,7 +5,7 @@
 <h2>&nbsp;Who am I?</h2>
 
 ```yaml
-name: Jax B
+name: Krennix
 located_in: United States of America 
 current_job: Student
 education:
